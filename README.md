@@ -20,4 +20,4 @@ Tento projekt je jednoduchá hra kostky naprogramovaná v JavaScriptu.
 - Moderní webový prohlížeč s podporou JavaScriptu.
 
 ## Autor
-Anna Jasková
+- Anna Jasková
