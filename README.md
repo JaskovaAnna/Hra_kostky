@@ -1,4 +1,4 @@
-# Kurz Programator - Hra kostky v JavaScriptu
+# Hra kostky v JavaScriptu
 
 ## Popis projektu
 Tento projekt je jednoduchá hra kostky naprogramovaná v JavaScriptu.
